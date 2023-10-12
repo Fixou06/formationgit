@@ -9,3 +9,8 @@ class Program
         // comments
     }
 }
+
+public class Calculator
+{
+    
+}
