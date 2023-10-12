@@ -6,5 +6,6 @@ class Program
     {
         Console.writeLine("Mon programme git");
         Console.writeLine("Mon programme git 2");
+        // comments
     }
 }
