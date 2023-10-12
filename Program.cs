@@ -15,5 +15,11 @@ public class Calculator
    public int Add (int left, int right)
    {
         return left + right;
-   } 
+   }
+
+   public int Division (int a, int b)
+   {
+    return a/b;
+   }
 }
+
