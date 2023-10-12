@@ -8,4 +8,11 @@ class Program
         Console.writeLine("Mon programme git 2");
         // comments
     }
+
+    public class Book
+    {
+        public string Title {get; set;}
+        public List<string> Autors {get; set;}
+        public DateTime PublicationDate {get; set;}
+    }
 }
